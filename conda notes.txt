@@ -1,0 +1,15 @@
+creating enivironment using conda terminal:
+>conda create --name <name of environment>
+>conda activate <name of environment>
+>then u can install libraries
+
+
+
+
+
+to add this environment in PyCharm:
+>go to settings in that python interpreter
+>in that again go to settings and select to add
+>then select conda environment
+>their select exising environment 
+>from their to the environment and select the python.exe file and then save that

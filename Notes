@@ -1,0 +1,39 @@
+Data Science is an interdisciplinary field that involves extracting meaningful insights,
+knowledge, and patterns from structured and unstructured data using a combination of
+statistical, mathematical, and computational techniques.
+
+Data Perspective:
+-read data
+-data processing and cleaning
+-summarization data
+-visualization data
+-deriving insights fron data
+
+Key Points=>
+
+> Data Collection
+> Sources: Databases, APIs, IoT devices, surveys.
+> Data Types: Structured (e.g., tables), unstructured (e.g., text, images), semi-structured (e.g., JSON, XML).
+
+> Data Cleaning
+> Tasks: Handle missing values, duplicates, and inconsistencies.
+> Purpose: Ensure data quality and reliability.
+
+> Data Exploration and Analysis
+> Goals: Understand data structure and characteristics.
+> Methods: Descriptive statistics, data visualization, pattern detection.
+
+> Statistical and Mathematical Modeling
+> Approach: Discover relationships in data using hypothesis testing, regression, clustering, etc.
+
+> Machine Learning (ML) and Artificial Intelligence (AI)
+> Focus: Build predictive models and algorithms.
+> Techniques: Supervised learning, unsupervised learning, deep learning.
+
+> Data Visualization
+> Tools: Matplotlib, Tableau, Power BI.
+> Benefit: Effectively communicate insights through graphical representation.
+
+> Deployment and Communication
+> Process: Integrate models into production (e.g., web apps, APIs).
+> Goal: Share insights with stakeholders via reports and dashboards.
